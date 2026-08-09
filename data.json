@@ -1,0 +1,183 @@
+{
+  "tagline": "Reel creator & photographer. I shoot, edit and craft scroll-stopping content for brands, creators and businesses.",
+  "about": "I create scroll-stopping reels and social-first content for brands, agencies and creators. I also shoot photography when the story needs more than motion. Based in Egypt, working worldwide.",
+  "marquee": "REELS · SOCIAL CONTENT · BRAND CONTENT · PRODUCT · PORTRAIT · STREET ·",
+  "email": "faresnagy2003@gmail.com",
+  "phone": "+20 109 119 1908",
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/faress.32"
+    }
+  ],
+  "videoCats": [
+    {
+      "id": "1x958xb",
+      "name": "Social / reels"
+    },
+    {
+      "id": "v8ghy6r",
+      "name": "Brand content"
+    },
+    {
+      "id": "2yaop54",
+      "name": "Creative / Ai"
+    },
+    {
+      "id": "y29njy4",
+      "name": "Events"
+    }
+  ],
+  "videos": [
+    {
+      "id": "564dm5v",
+      "title": "-",
+      "url": "https://youtube.com/shorts/rCSsqSUWeEQ",
+      "cat": "y29njy4",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "ldqmdcd",
+      "title": "-",
+      "url": "https://youtube.com/shorts/KujUIVspHSA",
+      "cat": "1x958xb",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": true
+    },
+    {
+      "id": "xso7nre",
+      "title": "-",
+      "url": "https://youtube.com/shorts/zv0uh6wlGOk",
+      "cat": "1x958xb",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "pv34bjz",
+      "title": "-",
+      "url": "https://youtube.com/shorts/HMnLfQy4UHM",
+      "cat": "v8ghy6r",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "v5dnipw",
+      "title": "Ai voice",
+      "url": "https://youtube.com/shorts/Noi-eooSEjk",
+      "cat": "2yaop54",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "r54x8ie",
+      "title": "-",
+      "url": "https://youtube.com/shorts/_IG1oaTjW74",
+      "cat": "v8ghy6r",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "03ux0lp",
+      "title": "-",
+      "url": "https://youtube.com/shorts/aE3MP6t570k",
+      "cat": "v8ghy6r",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "6t9haq5",
+      "title": "-",
+      "url": "https://youtube.com/shorts/1A72BGRwd4Y",
+      "cat": "v8ghy6r",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "fy9juj7",
+      "title": "Spider man ✂️",
+      "url": "https://youtube.com/shorts/-ylvMhBI8YI",
+      "cat": "1x958xb",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": true
+    },
+    {
+      "id": "5nx4vuu",
+      "title": "Ai",
+      "url": "https://youtu.be/amipHXp-kSc",
+      "cat": "2yaop54",
+      "aspect": "16/9",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "lem50j0",
+      "title": "Event",
+      "url": "https://youtu.be/zFob3BUodyc",
+      "cat": "y29njy4",
+      "aspect": "16/9",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "v1",
+      "title": "Caffe",
+      "url": "https://youtube.com/shorts/pp6wBD2snsQ",
+      "cat": "1x958xb",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": true
+    },
+    {
+      "id": "v2",
+      "title": "-",
+      "url": "https://youtube.com/shorts/MUsfzhgvhD0",
+      "cat": "1x958xb",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "v3",
+      "title": "-",
+      "url": "https://youtube.com/shorts/VN-VyDhuZc4",
+      "cat": "1x958xb",
+      "aspect": "9/16",
+      "hidden": false,
+      "featured": false
+    },
+    {
+      "id": "v4",
+      "title": "Refurbishment with ai",
+      "url": "https://youtu.be/6W-yJV6je0o",
+      "cat": "2yaop54",
+      "aspect": "16/9",
+      "hidden": false,
+      "featured": true
+    }
+  ],
+  "photoCats": [
+    {
+      "id": "portrait",
+      "name": "PEOPLE"
+    },
+    {
+      "id": "product",
+      "name": "PRODUCT"
+    },
+    {
+      "id": "street",
+      "name": "LIFESTYLE"
+    }
+  ],
+  "photos": []
+}
