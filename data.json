@@ -177,6 +177,10 @@
     {
       "id": "street",
       "name": "LIFESTYLE"
+    },
+    {
+      "id": "nvybjna",
+      "name": "CARS"
     }
   ],
   "photos": [
@@ -184,7 +188,7 @@
       "id": "ph1",
       "title": "",
       "src": "images/IMG_1940.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -194,37 +198,37 @@
       "id": "ph2",
       "title": "",
       "src": "images/IMG_1997.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
-      "featured": true
+      "featured": false
     },
     {
       "id": "ph3",
       "title": "",
       "src": "images/IMG_1998.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
-      "featured": true
+      "featured": false
     },
     {
       "id": "ph4",
       "title": "",
       "src": "images/IMG_2009.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
-      "featured": true
+      "featured": false
     },
     {
       "id": "ph5",
       "title": "",
       "src": "images/IMG_2011.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
@@ -234,7 +238,7 @@
       "id": "ph6",
       "title": "",
       "src": "images/IMG_2013.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
@@ -244,37 +248,37 @@
       "id": "ph7",
       "title": "",
       "src": "images/IMG_2014.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
-      "featured": true
+      "featured": false
     },
     {
       "id": "ph8",
       "title": "",
       "src": "images/IMG_2482.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
-      "featured": true
+      "featured": false
     },
     {
       "id": "ph9",
       "title": "",
       "src": "images/IMG_2486.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "tall",
       "ar": 0.666,
       "hidden": false,
-      "featured": true
+      "featured": false
     },
     {
       "id": "ph10",
       "title": "",
       "src": "images/IMG_2487.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -284,7 +288,7 @@
       "id": "ph11",
       "title": "",
       "src": "images/IMG_2594.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -294,7 +298,7 @@
       "id": "ph12",
       "title": "",
       "src": "images/IMG_2595.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -304,7 +308,7 @@
       "id": "ph13",
       "title": "",
       "src": "images/IMG_2601.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -314,7 +318,7 @@
       "id": "ph14",
       "title": "",
       "src": "images/IMG_4836.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -324,7 +328,7 @@
       "id": "ph15",
       "title": "",
       "src": "images/IMG_4837.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -334,7 +338,7 @@
       "id": "ph16",
       "title": "",
       "src": "images/IMG_5090.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.501,
       "hidden": false,
@@ -344,7 +348,7 @@
       "id": "ph17",
       "title": "",
       "src": "images/IMG_5119.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "tall",
       "ar": 0.667,
       "hidden": false,
@@ -354,7 +358,7 @@
       "id": "ph18",
       "title": "",
       "src": "images/IMG_6056.jpg",
-      "cat": "portrait",
+      "cat": "nvybjna",
       "size": "wide",
       "ar": 1.5,
       "hidden": false,
@@ -408,7 +412,7 @@
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
-      "featured": false
+      "featured": true
     },
     {
       "id": "ph24",
@@ -418,7 +422,7 @@
       "size": "tall",
       "ar": 0.75,
       "hidden": false,
-      "featured": false
+      "featured": true
     },
     {
       "id": "ph25",
@@ -444,7 +448,7 @@
       "id": "ph27",
       "title": "",
       "src": "images/IMG_7982.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.667,
       "hidden": false,
@@ -454,27 +458,27 @@
       "id": "ph28",
       "title": "",
       "src": "images/IMG_7988.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "tall",
       "ar": 0.667,
       "hidden": false,
-      "featured": false
+      "featured": true
     },
     {
       "id": "ph29",
       "title": "",
       "src": "images/IMG_8247.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "square",
       "ar": 1,
       "hidden": false,
-      "featured": false
+      "featured": true
     },
     {
       "id": "ph30",
       "title": "",
       "src": "images/IMG_8248.jpg",
-      "cat": "portrait",
+      "cat": "product",
       "size": "square",
       "ar": 1,
       "hidden": false,
